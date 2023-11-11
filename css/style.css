@@ -32,6 +32,7 @@ button{
 }
 
 .navigation-link{
+   color: #2E2F42;
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
@@ -62,7 +63,7 @@ button{
 
 
 .main-section{
-    background-color: currentColor;
+    background-color: #2E2F42;
 }
 .main-title{
     color: #ffffff;
@@ -114,6 +115,9 @@ background-color: #404BBF;
     line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
+}
+.team-list-item{
+    background-color: #ffffff;
 }
 
 .name-title{
